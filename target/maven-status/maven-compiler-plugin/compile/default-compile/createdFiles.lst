@@ -1,0 +1,9 @@
+com\keycloak\identityprovider\model\User.class
+com\keycloak\identityprovider\service\UserServiceInterface.class
+com\keycloak\identityprovider\dao\UserDAOInterface.class
+com\keycloak\identityprovider\model\UserAdapter.class
+com\keycloak\identityprovider\spi\CustomUserStorageProviderFactory.class
+com\keycloak\identityprovider\log\Log.class
+com\keycloak\identityprovider\service\UserService.class
+com\keycloak\identityprovider\spi\CustomUserStorageProvider.class
+com\keycloak\identityprovider\dao\UserDAO.class

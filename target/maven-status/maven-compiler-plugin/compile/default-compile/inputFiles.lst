@@ -1,0 +1,9 @@
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\model\UserAdapter.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\spi\CustomUserStorageProvider.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\spi\CustomUserStorageProviderFactory.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\dao\UserDAO.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\dao\UserDAOInterface.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\log\Log.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\service\UserService.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\model\User.java
+C:\Users\Alessandro\Documents\Universita magistrale\Software architectures and methodologies\keycloak-indentity-provider\src\main\java\com\keycloak\identityprovider\service\UserServiceInterface.java
